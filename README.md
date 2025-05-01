@@ -9,4 +9,4 @@
 
 MathX é um projeto simples criado com finalidade de aprender e desenvolver habilidades com o framework Laravel.
 
-Trata-se de um projeto de geração de atividades de matemática utilizando as quatro operações básicas (adição, subtração, multiplicação e divisão). O projeto consiste em gerar as atividades em um número desejado pelo usuário, do qual além de montar as operações também possui a finalidade de baixar em arquivo .txt ou .pdf além de mostrar as soluções propostas.
+Trata-se de um projeto de geração de atividades de matemática utilizando as quatro operações básicas (adição, subtração, multiplicação e divisão). O projeto consiste em gerar as atividades em um número desejado pelo usuário, do qual além de montar as operações também possui a finalidade de baixar em arquivo .txt além de mostrar as soluções propostas.
